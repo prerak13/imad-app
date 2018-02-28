@@ -3,7 +3,13 @@ body {
     background-color: lightgrey;
     margin-top: 75px;
 }
-
+    .container{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 10px;
+    color: grey;
+    font-family: sans-serif;
+}
 .center {
     text-align: center;
 }
