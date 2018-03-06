@@ -11,6 +11,7 @@ button.onclick=function(){
                
                 document.getElementById('showThis').innerHTML=count.toString();
                 console.log(count.toString());
+                alert(count.toString());
            } 
         }
     };
