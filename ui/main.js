@@ -10,6 +10,7 @@ button.onclick=function(){
                var count=request.responseText;
                
                 document.getElementById('showThis').innerHTML=count.toString();
+                console.log(count.toString());
            } 
         }
     };
